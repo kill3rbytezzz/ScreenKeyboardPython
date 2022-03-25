@@ -1,5 +1,5 @@
 # ScreenKeyboardPython
-Keyboard that show whatever we type on our screen
+Keyboard that show whatever you type on our screen
 Require a python lib of
  - Pyqt5
  - OpenGL
